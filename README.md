@@ -67,7 +67,7 @@ hello = (firstName, lastName) => "Hello" + firstName + " " + lastName;
 
 *   This is one of the main benefits of arrow functions. Pun intended. 😏
 *   With arrow functions, there is no binding of **this** and instead, it is bound to the code that contains the arrow function.
-*   In traditional functions, **this** keyword represented the object that called the function, whether that be the window, document, a button, etc.
+*   In traditional functions, **this** keyword represents the object that called the function, whether that be the window, document, a button, etc.
 *   With arrow functions, **this** keyword always represents the object that defined the arrow function
 *   Traditional function
 
